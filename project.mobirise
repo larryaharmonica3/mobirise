@@ -1359,7 +1359,7 @@
             "overlayOpacity": 0.5
           },
           "text": "聯絡我們",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/venusbasketballteam/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
